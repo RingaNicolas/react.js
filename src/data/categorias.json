@@ -1,0 +1,14 @@
+[
+    {
+        "id": "remeras",
+        "nombre": "Remeras"
+    },
+    {
+        "id": "pantalones",
+        "nombre": "Pantalones"
+    },
+    {
+        "id": "camperas",
+        "nombre": "Camperas"
+    }
+]

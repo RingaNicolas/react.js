@@ -1,0 +1,134 @@
+[
+    {
+        "id": 1,
+        "nombre": "Remera básica",
+        "precio": 2500,
+        "imagen": "https://placeholder.pics/svg/150",
+        "descripcion": "Remera de algodón de alta calidad, ideal para el uso diario.",
+        "categoria": {
+            "id": "remeras",
+            "nombre": "Remeras"
+        }
+    },
+    {
+        "id": 2,
+        "nombre": "Jeans clásicos",
+        "precio": 4500,
+        "imagen": "https://placeholder.pics/svg/150",
+        "descripcion": "Jeans de corte clásico, cómodos y duraderos.",
+        "categoria": {
+            "id": "pantalones",
+            "nombre": "Pantalones"
+        }
+    },
+    {
+        "id": 3,
+        "nombre": "Campera de cuero",
+        "precio": 15000,
+        "imagen": "https://placeholder.pics/svg/150",
+        "descripcion": "Campera de cuero auténtico, perfecta para un look elegante.",
+        "categoria": {
+            "id": "camperas",
+            "nombre": "Camperas"
+        }
+    },
+    {
+        "id": 4,
+        "nombre": "Remera estampada",
+        "precio": 3000,
+        "imagen": "https://placeholder.pics/svg/150",
+        "descripcion": "Remera con diseño estampado, ideal para ocasiones casuales.",
+        "categoria": {
+            "id": "remeras",
+            "nombre": "Remeras"
+        }
+    },
+    {
+        "id": 5,
+        "nombre": "Pantalón de jogging",
+        "precio": 3500,
+        "imagen": "https://placeholder.pics/svg/150",
+        "descripcion": "Pantalón de jogging cómodo y flexible, ideal para hacer deporte.",
+        "categoria": {
+            "id": "pantalones",
+            "nombre": "Pantalones"
+        }
+    },
+    {
+        "id": 6,
+        "nombre": "Campera de jean",
+        "precio": 8000,
+        "imagen": "https://placeholder.pics/svg/150",
+        "descripcion": "Campera de jean clásica, perfecta para un look casual.",
+        "categoria": {
+            "id": "camperas",
+            "nombre": "Camperas"
+        }
+    },
+    {
+        "id": 7,
+        "nombre": "Remera deportiva",
+        "precio": 2700,
+        "imagen": "https://placeholder.pics/svg/150",
+        "descripcion": "Remera deportiva transpirable, ideal para entrenamientos.",
+        "categoria": {
+            "id": "remeras",
+            "nombre": "Remeras"
+        }
+    },
+    {
+        "id": 8,
+        "nombre": "Pantalón de vestir",
+        "precio": 5500,
+        "imagen": "https://placeholder.pics/svg/150",
+        "descripcion": "Pantalón de vestir elegante, perfecto para ocasiones formales.",
+        "categoria": {
+            "id": "pantalones",
+            "nombre": "Pantalones"
+        }
+    },
+    {
+        "id": 9,
+        "nombre": "Campera deportiva",
+        "precio": 9500,
+        "imagen": "https://placeholder.pics/svg/150",
+        "descripcion": "Campera deportiva ligera y cómoda, ideal para actividades al aire libre.",
+        "categoria": {
+            "id": "camperas",
+            "nombre": "Camperas"
+        }
+    },
+    {
+        "id": 10,
+        "nombre": "Remera manga larga",
+        "precio": 3200,
+        "imagen": "https://placeholder.pics/svg/150",
+        "descripcion": "Remera de manga larga, ideal para días frescos.",
+        "categoria": {
+            "id": "remeras",
+            "nombre": "Remeras"
+        }
+    },
+    {
+        "id": 11,
+        "nombre": "Pantalón cargo",
+        "precio": 4800,
+        "imagen": "https://placeholder.pics/svg/150",
+        "descripcion": "Pantalón cargo con múltiples bolsillos, práctico y cómodo.",
+        "categoria": {
+            "id": "pantalones",
+            "nombre": "Pantalones"
+        }
+    },
+    {
+        "id": 12,
+        "nombre": "Campera de lana",
+        "precio": 12000,
+        "imagen": "https://placeholder.pics/svg/150",
+        "descripcion": "Campera de lana abrigada, perfecta para el invierno.",
+        "categoria": {
+            "id": "camperas",
+            "nombre": "Camperas"
+        }
+    }
+]
