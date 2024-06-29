@@ -1,10 +1,10 @@
 [
     {
         "id": 1,
-        "nombre": "Remera básica",
-        "precio": 2500,
-        "imagen": "https://placeholder.pics/svg/150",
-        "descripcion": "Remera de algodón de alta calidad, ideal para el uso diario.",
+        "nombre": "Remera oversize",
+        "precio": 10500,
+        "imagen": "/img/Remera-oversize.jpg",
+        "descripcion": "Remera de algodón oversize de alta calidad, ideal para el uso diario.",
         "categoria": {
             "id": "remeras",
             "nombre": "Remeras"
@@ -12,10 +12,10 @@
     },
     {
         "id": 2,
-        "nombre": "Jeans clásicos",
-        "precio": 4500,
-        "imagen": "https://placeholder.pics/svg/150",
-        "descripcion": "Jeans de corte clásico, cómodos y duraderos.",
+        "nombre": "Jeans cargo",
+        "precio": 30000,
+        "imagen": "/img/Jean-cargo.jpg",
+        "descripcion": "Jeans cargo clásico de varios colores, cómodos y duraderos.",
         "categoria": {
             "id": "pantalones",
             "nombre": "Pantalones"
@@ -23,21 +23,21 @@
     },
     {
         "id": 3,
-        "nombre": "Campera de cuero",
-        "precio": 15000,
-        "imagen": "https://placeholder.pics/svg/150",
-        "descripcion": "Campera de cuero auténtico, perfecta para un look elegante.",
+        "nombre": "hoodie oversize",
+        "precio": 50000,
+        "imagen": "/img/Hoodie-oversize.jpg",
+        "descripcion": "Hoodie oversize gris, muy comodo y abrigado.",
         "categoria": {
-            "id": "camperas",
-            "nombre": "Camperas"
+            "id": "buzos",
+            "nombre": "Buzos"
         }
     },
     {
         "id": 4,
         "nombre": "Remera estampada",
-        "precio": 3000,
-        "imagen": "https://placeholder.pics/svg/150",
-        "descripcion": "Remera con diseño estampado, ideal para ocasiones casuales.",
+        "precio": 12000,
+        "imagen": "/img/Remera-oversize-estampada.jpg",
+        "descripcion": "Remera oversize con diseño estampado.",
         "categoria": {
             "id": "remeras",
             "nombre": "Remeras"
@@ -45,75 +45,9 @@
     },
     {
         "id": 5,
-        "nombre": "Pantalón de jogging",
-        "precio": 3500,
-        "imagen": "https://placeholder.pics/svg/150",
-        "descripcion": "Pantalón de jogging cómodo y flexible, ideal para hacer deporte.",
-        "categoria": {
-            "id": "pantalones",
-            "nombre": "Pantalones"
-        }
-    },
-    {
-        "id": 6,
-        "nombre": "Campera de jean",
-        "precio": 8000,
-        "imagen": "https://placeholder.pics/svg/150",
-        "descripcion": "Campera de jean clásica, perfecta para un look casual.",
-        "categoria": {
-            "id": "camperas",
-            "nombre": "Camperas"
-        }
-    },
-    {
-        "id": 7,
-        "nombre": "Remera deportiva",
-        "precio": 2700,
-        "imagen": "https://placeholder.pics/svg/150",
-        "descripcion": "Remera deportiva transpirable, ideal para entrenamientos.",
-        "categoria": {
-            "id": "remeras",
-            "nombre": "Remeras"
-        }
-    },
-    {
-        "id": 8,
-        "nombre": "Pantalón de vestir",
-        "precio": 5500,
-        "imagen": "https://placeholder.pics/svg/150",
-        "descripcion": "Pantalón de vestir elegante, perfecto para ocasiones formales.",
-        "categoria": {
-            "id": "pantalones",
-            "nombre": "Pantalones"
-        }
-    },
-    {
-        "id": 9,
-        "nombre": "Campera deportiva",
-        "precio": 9500,
-        "imagen": "https://placeholder.pics/svg/150",
-        "descripcion": "Campera deportiva ligera y cómoda, ideal para actividades al aire libre.",
-        "categoria": {
-            "id": "camperas",
-            "nombre": "Camperas"
-        }
-    },
-    {
-        "id": 10,
-        "nombre": "Remera manga larga",
-        "precio": 3200,
-        "imagen": "https://placeholder.pics/svg/150",
-        "descripcion": "Remera de manga larga, ideal para días frescos.",
-        "categoria": {
-            "id": "remeras",
-            "nombre": "Remeras"
-        }
-    },
-    {
-        "id": 11,
         "nombre": "Pantalón cargo",
-        "precio": 4800,
-        "imagen": "https://placeholder.pics/svg/150",
+        "precio": 35000,
+        "imagen": "/img/Pantalon-cargo.jpg",
         "descripcion": "Pantalón cargo con múltiples bolsillos, práctico y cómodo.",
         "categoria": {
             "id": "pantalones",
@@ -121,14 +55,80 @@
         }
     },
     {
-        "id": 12,
-        "nombre": "Campera de lana",
-        "precio": 12000,
-        "imagen": "https://placeholder.pics/svg/150",
-        "descripcion": "Campera de lana abrigada, perfecta para el invierno.",
+        "id": 6,
+        "nombre": "Buzo sin capucha",
+        "precio": 35000,
+        "imagen": "/img/Buzo-sin-capucha.jpg",
+        "descripcion": "Buzo sin capucha negro, perfecto para un look casual.",
         "categoria": {
-            "id": "camperas",
-            "nombre": "Camperas"
+            "id": "buzos",
+            "nombre": "Buzos"
+        }
+    },
+    {
+        "id": 7,
+        "nombre": "Remera oversize blanca",
+        "precio": 10500,
+        "imagen": "/img/Remera-oversize-blanca.jpg",
+        "descripcion": "Remera oversize blanca, ideal para el día a día.",
+        "categoria": {
+            "id": "remeras",
+            "nombre": "Remeras"
+        }
+    },
+    {
+        "id": 8,
+        "nombre": "Pantalón de jean negro",
+        "precio": 35000,
+        "imagen": "/img/Pantalon-de-jean-negro.jpg",
+        "descripcion": "Pantalón de jean negro elastizado, muy comodo.",
+        "categoria": {
+            "id": "pantalones",
+            "nombre": "Pantalones"
+        }
+    },
+    {
+        "id": 9,
+        "nombre": "Buzo oversize",
+        "precio": 55000,
+        "imagen": "/img/Buzo-oversize-peluchito.jpg",
+        "descripcion": "Buzo oversize de peluchito, muy abrigado.",
+        "categoria": {
+            "id": "buzos",
+            "nombre": "Buzos"
+        }
+    },
+    {
+        "id": 10,
+        "nombre": "Remera manga larga",
+        "precio": 9800,
+        "imagen": "/img/Remera-manga-larga.jpg",
+        "descripcion": "Remera de manga larga, ideal para usar bajo una remera oversize.",
+        "categoria": {
+            "id": "remeras",
+            "nombre": "Remeras"
+        }
+    },
+    {
+        "id": 11,
+        "nombre": "Pantalón de jean chupin",
+        "precio": 28000,
+        "imagen": "/img/Pantalon-de-jean-chupin.jpg",
+        "descripcion": "Pantalon de jean chupin, perfecto para uso diario.",
+        "categoria": {
+            "id": "pantalones",
+            "nombre": "Pantalones"
+        }
+    },
+    {
+        "id": 12,
+        "nombre": "Buzo con estampado",
+        "precio": 45000,
+        "imagen": "/img/Buzo-oversize-con-estampado.jpg",
+        "descripcion": "Buzo oversize estampado, perfecto para el invierno.",
+        "categoria": {
+            "id": "buzos",
+            "nombre": "Buzos"
         }
     }
 ]
